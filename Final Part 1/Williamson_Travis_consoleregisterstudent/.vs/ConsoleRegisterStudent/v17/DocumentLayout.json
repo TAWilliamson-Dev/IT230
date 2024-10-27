@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thein\\OneDrive\\Desktop\\SNHU Fall 1 Coursework\\ConsoleRegisterStudent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8A7485-3965-4AA2-8279-947F323322F4}|ConsoleRegisterStudent\\ConsoleRegisterStudent.csproj|c:\\users\\thein\\onedrive\\desktop\\snhu fall 1 coursework\\consoleregisterstudent\\consoleregisterstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8A7485-3965-4AA2-8279-947F323322F4}|ConsoleRegisterStudent\\ConsoleRegisterStudent.csproj|solutionrelative:consoleregisterstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thein\\OneDrive\\Desktop\\SNHU Fall 1 Coursework\\ConsoleRegisterStudent\\ConsoleRegisterStudent\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleRegisterStudent\\Program.cs",
+              "ToolTip": "C:\\Users\\thein\\OneDrive\\Desktop\\SNHU Fall 1 Coursework\\ConsoleRegisterStudent\\ConsoleRegisterStudent\\Program.cs",
+              "RelativeToolTip": "ConsoleRegisterStudent\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowFIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:49:22.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

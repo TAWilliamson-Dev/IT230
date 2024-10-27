@@ -1,0 +1,29 @@
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\bin\Debug\WPFRegisterStudent.exe.config
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\bin\Debug\WPFRegisterStudent.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\bin\Debug\WPFRegisterStudent.pdb
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.csprojResolveAssemblyReference.cache
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\MainWindow.g.cs
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\App.g.cs
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent_MarkupCompile.cache
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent_MarkupCompile.lref
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\MainWindow.baml
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.g.resources
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.Properties.Resources.resources
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.csproj.GenerateResource.Cache
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.pdb
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\bin\Debug\WPFRegisterStudent.exe.config
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\bin\Debug\WPFRegisterStudent.exe
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\bin\Debug\WPFRegisterStudent.pdb
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.csproj.AssemblyReference.cache
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\MainWindow.g.cs
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\App.g.cs
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent_MarkupCompile.cache
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent_MarkupCompile.lref
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\MainWindow.baml
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.g.resources
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.Properties.Resources.resources
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.csproj.GenerateResource.cache
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.csproj.CoreCompileInputs.cache
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.exe
+C:\Users\thein\OneDrive\Desktop\SNHU Fall 1 Coursework\IT230\Module 7\WPFRegisterStudent\WPFRegisterStudent\obj\Debug\WPFRegisterStudent.pdb
